@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="t d"><title id="t">YJ Game Client Developer</title><desc id="d">Unity C#와 Unreal C++ 게임 클라이언트 개발 포트폴리오용 배너</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0A1018"/><stop offset="1" stop-color="#172B39"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop stop-color="#E8D9BA"/><stop offset="1" stop-color="#C9A977"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#365062" stroke-width=".6" opacity=".35"/></pattern></defs>
+<rect width="1200" height="285" fill="url(#bg)"/><rect width="1200" height="285" fill="url(#g)"/>
+<path d="M820 0h380v285H690Z" fill="#1C3241" opacity=".35"/>
+<text x="60" y="78" font-family="Arial,sans-serif" font-size="47" font-weight="800" fill="#F1EEE7">YJ<tspan fill="#D9BF97">.</tspan></text>
+<path d="M60 106h480" stroke="#577081" stroke-width="1"/>
+<text x="60" y="146" font-family="Arial,Noto Sans KR,Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="#F1EEE7">FROM PLAYER INPUT</text>
+<text x="60" y="186" font-family="Arial,Noto Sans KR,Malgun Gothic,sans-serif" font-size="27" font-weight="700" fill="url(#gold)">TO GAMEPLAY SYSTEMS.</text>
+<text x="60" y="231" font-family="Arial,sans-serif" font-size="16" letter-spacing="2.5" font-weight="600" fill="#AFC1CF">GAME CLIENT DEVELOPER · UNITY / UNREAL</text>
+<g stroke="#8AA7B9" stroke-width="2" opacity=".72" fill="none"><path d="M778 75h92l58 65h91"/><path d="M778 210h84l64-72"/><path d="M926 138v-77h119"/><path d="M930 138v76h119"/></g>
+<g fill="#152B3B" stroke="#D9BF97" stroke-width="2"><rect x="724" y="51" width="120" height="48" rx="6"/><rect x="956" y="111" width="152" height="54" rx="6"/><rect x="1013" y="37" width="126" height="46" rx="6"/><rect x="1013" y="190" width="126" height="46" rx="6"/></g>
+<g font-family="Arial,sans-serif" fill="#F0E7D8" font-size="16" font-weight="700"><text x="747" y="81">INPUT</text><text x="994" y="144">GAME FLOW</text><text x="1040" y="66">DATA</text><text x="1044" y="219">UI</text></g>
+<g fill="#D9BF97"><circle cx="928" cy="138" r="7"/><circle cx="869" cy="75" r="5"/><circle cx="926" cy="210" r="5"/></g>
+</svg>
