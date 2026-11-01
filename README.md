@@ -68,7 +68,3 @@
 | **Programming** | C#, C++, Blueprint |
 | **Gameplay / UI** | Unity uGUI, TextMeshPro, C# events, ScriptableObject, Unreal Chaos Vehicles, Niagara |
 | **Workflow** | Git, GitHub, 기능 브랜치·PR·이슈 기반 개발 기록 |
-
----
-
-<sub>실제 구현 여부와 검증 상태는 각 프로젝트 설명에서 구분했습니다. 위 프로젝트 커버는 게임 플레이 화면이 아닌 설명용 시스템 일러스트입니다.</sub>
