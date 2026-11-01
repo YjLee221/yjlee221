@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://yjlee221.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-D4AF62?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/YjLee221/Pencil2Diamond">Pencil2Diamond GitHub</a>
   &nbsp;·&nbsp;
   <a href="https://youtu.be/p8ovjJP-HN0">Taxi Driver 시연</a>
