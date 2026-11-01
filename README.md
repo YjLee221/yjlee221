@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="YJ Game Client Developer — 게임의 입력과 흐름을 시스템으로 연결하다." />
+  <img src="./header.svg" width="100%" alt="YJ Game Client Developer — 게임의 입력과 흐름을 시스템으로 연결하다." />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 01 · Pencil2Diamond — Unity / C#
 
-<a href="https://github.com/YjLee221/Pencil2Diamond"><img src="./assets/pencil2diamond.svg" width="100%" alt="Pencil2Diamond: Unity 6 C# 모바일 2D 개인 프로젝트, 개발 중. 작업 흐름을 표현한 일러스트"/></a>
+<a href="https://github.com/YjLee221/Pencil2Diamond"><img src="./pencil2diamond.svg" width="100%" alt="Pencil2Diamond: Unity 6 C# 모바일 2D 개인 프로젝트, 개발 중. 작업 흐름을 표현한 일러스트"/></a>
 
 **개인 프로젝트 · 개발 중 · Android 목표**
 
@@ -36,14 +36,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://youtu.be/p8ovjJP-HN0"><img src="./assets/taxi-driver.svg" width="100%" alt="Taxi Driver in Paris: Unreal Engine 5, C++ 기반 2인 팀 프로젝트, 팀장. 시스템 흐름 일러스트"/></a>
+      <a href="https://youtu.be/p8ovjJP-HN0"><img src="./taxi-driver.svg" width="100%" alt="Taxi Driver in Paris: Unreal Engine 5, C++ 기반 2인 팀 프로젝트, 팀장. 시스템 흐름 일러스트"/></a>
       <br/><strong>Taxi Driver in Paris</strong><br/>
       <sub>2인 팀 · 팀장 · C++ / Blueprint</sub>
       <p>플레이어·AI 차량의 공통 베이스 구조, Chaos Vehicle 주행 및 Spline 경로 추종, 주행 HUD를 구현했습니다.</p>
       <a href="https://youtu.be/p8ovjJP-HN0">시연 영상</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.youtube.com/watch?v=fnKinP_DIwg"><img src="./assets/magic-school.svg" width="100%" alt="Magic School: Unreal Engine 5, Blueprint 기반 2인 팀 프로젝트, 팀원. 상호작용 구조 일러스트"/></a>
+      <a href="https://www.youtube.com/watch?v=fnKinP_DIwg"><img src="./magic-school.svg" width="100%" alt="Magic School: Unreal Engine 5, Blueprint 기반 2인 팀 프로젝트, 팀원. 상호작용 구조 일러스트"/></a>
       <br/><strong>Magic School</strong><br/>
       <sub>2인 팀 · 팀원 · Blueprint / Niagara</sub>
       <p>시선 기반 대상 감지, 인터페이스를 통한 오브젝트 상호작용, 서랍 기믹과 시각 효과를 작업했습니다.</p>
