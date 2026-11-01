@@ -69,5 +69,5 @@
 | **Gameplay / UI** | Unity uGUI, TextMeshPro, C# events, ScriptableObject, Unreal Chaos Vehicles, Niagara |
 | **Workflow** | Git, GitHub, 기능 브랜치·PR·이슈 기반 개발 기록 |
 
-##Rights
+## Rights
 © 2026 Lee Yujung. All rights reserved.
